@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuval George</h1>
 <h3 align="center">A Computer Science undergraduate passionate about turning ideas into reality through code. My focus is on building intuitive web solutions, scalable applications, and exploring emerging tech.</h3>
 
-- 🔭 I’m currently working on **Python,HTML,react.js, MERN projects**
+- 🔭 I’m currently working on **Python, HTML, react.js, MERN projects**
 
 - 🌱 I’m currently learning **Unity engine, C#**
 
