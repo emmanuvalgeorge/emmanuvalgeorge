@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **emmanuvalg007@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/199ncBUiHOj1BxqfCmXn_K7WPLKedWQOf/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1mXyy_20f2OJoagqhfxTUDyUKyURuNqtn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
